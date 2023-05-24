@@ -1,16 +1,40 @@
-# instagram
+# Instagram
 
-A new Flutter project.
+This is a clone for popular app Instagram
 
-## Getting Started
+Here are the screens for the apps listed:
 
-This project is a starting point for a Flutter application.
+Home Screen:
 
-A few resources to get you started if this is your first Flutter project:
+![Home Screen](https://github.com/MrLakshay/instagram/blob/784d7abc26bcf357b318fb14072c83b329542232/Screens/home%20screen.jpeg)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Feeds:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Feeds with search on](https://github.com/MrLakshay/instagram/blob/7372763534770534f97d7abdc32c6fb33210dbb6/Screens/Feeds.jpeg)
+![Feeds](https://github.com/MrLakshay/instagram/blob/7372763534770534f97d7abdc32c6fb33210dbb6/Screens/feeds%20without%20search.jpeg)
+
+Comments page:
+
+![Comments page](https://github.com/MrLakshay/instagram/blob/7372763534770534f97d7abdc32c6fb33210dbb6/Screens/comments.jpeg)
+
+Upload Screen
+
+![Upload screen captions](https://github.com/MrLakshay/instagram/blob/7372763534770534f97d7abdc32c6fb33210dbb6/Screens/upload%20and%20captions.jpeg)
+
+
+![Upload screen captions ](https://github.com/MrLakshay/instagram/blob/7372763534770534f97d7abdc32c6fb33210dbb6/Screens/upload%20and%20captions%20and%20loading.jpeg)
+
+Uploading image with loading screen
+
+User Screen 
+
+![User screen](https://github.com/MrLakshay/instagram/blob/7372763534770534f97d7abdc32c6fb33210dbb6/Screens/profile%20screen.jpeg)
+
+
+
+
+
+
+** There are some more screens and errors that needs to be fixed **
+
+
